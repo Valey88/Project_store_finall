@@ -1,0 +1,26 @@
+.section4Container {
+  width: 100%;
+  display: flex;
+  grid-gap: 30rem;
+}
+.section4Text {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: left;
+  padding-top: 4rem;
+}
+.section4Text h2 {
+  font-size: 5.2rem;
+  font-weight: normal;
+}
+.section4Text button {
+  margin-top: 7rem;
+}
+
+.sectionDiscription {
+  width: 40rem;
+  font-size: 1.4rem;
+  line-height: 2.8rem;
+  color: #939393;
+}

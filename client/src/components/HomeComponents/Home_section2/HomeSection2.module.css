@@ -1,0 +1,32 @@
+.HomeSection2 h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 6.2rem;
+  font-weight: 500;
+}
+.Features {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  grid-gap: 15rem;
+}
+.FeatureItem 
+.FeatureItemHeader {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  grid-gap: 1.5rem;
+}
+.FeatureItemHeader h3 {
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+.FeatureItemDiscription {
+    width: 69rem;
+    padding-left: 5rem;
+}
+.FeatureItemDiscription h4 {
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #939393;
+}

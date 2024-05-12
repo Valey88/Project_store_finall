@@ -1,0 +1,20 @@
+.HomeSection3 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background: #ab8873;
+  padding-top: 9rem;
+  padding-bottom: 8rem;
+}
+.HomeSection3 h2 {
+  color: #fff;
+  font-size: 6.2rem;
+  font-weight: normal;
+}
+.HomeSection3 img {
+    margin-bottom: 5.6rem;
+}
+.buttonSection3 {
+  background-color: #7b6659;
+}

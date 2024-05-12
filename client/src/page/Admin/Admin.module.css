@@ -1,0 +1,11 @@
+.admin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.createDevice {
+  display: flex;
+  flex-direction: column;
+  grid-gap: 2rem;
+}

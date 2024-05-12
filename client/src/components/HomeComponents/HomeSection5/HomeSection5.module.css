@@ -1,0 +1,16 @@
+.HomeSection5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  grid-gap: 40rem;
+}
+.section5About h2 {
+  font-size: 4.2rem;
+  font-weight: normal;
+}
+.section5About p {
+width: 40rem;
+  font-size: 1.4rem;
+  color: #939393;
+}

@@ -1,0 +1,12 @@
+.Product{
+    width: 100%;
+}
+.productContainer{
+    display: flex;
+    justify-content: left;
+    margin-left:15rem;
+    grid-gap: 15rem;
+}
+.productContainer_info{
+    width: 80rem;
+}
